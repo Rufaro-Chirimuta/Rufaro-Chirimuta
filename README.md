@@ -17,12 +17,6 @@
 - Html
 - Java
 - Node.JS
-
-<h2>Connect With Me</h2>
-
-<p></p>[linkedin]: https://www.linkedin.com/in/rufaro-chirimuta</p>
+- 
 <p>[youtube]: https://www.youtube.com/c/rufarochirimuta</p>
-<p>Email: rufarochirimuta6@gmail.com</p>
-
-
 <!--
