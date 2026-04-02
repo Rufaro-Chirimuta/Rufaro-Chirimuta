@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Rufaro! AI Automation Specialist </h1>
+
+<h2>🤖 Make.com </h2>
+
+- <b>Website Automations</b>
+  - [Wedsite chatbot](insert url here)
+- <b>Blog Post Automation</b>
+  - [Image Analysis Middleware](insert url here) <b><i></b></i>
+- <b>Sales Automation</b>
+  - [Active Directory Bulk User Creation](insert url here)
+- <b>Social Media Automation</b>
+  - [Ransomware Proof of Concept (Encrypter)](insert url here)
+ 
+<h2> My key Skills :</h2>
+
+- Prompt Engeneering
+- Html
+- Java
+- Node.JS
+
+<h2>Connect With Me</h2>
+
+<p></p>[linkedin]: https://www.linkedin.com/in/rufaro-chirimuta</p>
+<p>[youtube]: https://www.youtube.com/c/rufarochirimuta</p>
+<p>Email: rufarochirimuta6@gmail.com</p>
+
 
 <!--
-**Rufaro-Chirimuta/Rufaro-Chirimuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
